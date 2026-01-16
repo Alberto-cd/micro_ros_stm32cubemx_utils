@@ -1,0 +1,14 @@
+# Goal
+uint16 mission_id   # Sends the mission id again and starts the mission
+
+---
+# Result
+bool finished
+bool emergency
+
+---
+# Feedback
+float32 steering
+float32 acceleration
+bool finished
+bool emergency

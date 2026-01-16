@@ -1,0 +1,6 @@
+# Request
+uint16 mission_id
+
+---
+# Response
+bool accepted
